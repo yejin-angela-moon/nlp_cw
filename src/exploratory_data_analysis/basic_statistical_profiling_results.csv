@@ -1,0 +1,2 @@
+token_count,vocabulary_size,average_sentence_length,min_sentence_length,max_sentence_length,label_non-PCL_percentage,label_PCL_percentage
+452194,29091,43.193619256853566,1,819,0.9051485337663578,0.09485146623364218
